@@ -1,0 +1,21 @@
+OPIS PROGRAMA
+naredil sem program imenovan bankomat v katerem lahko naredite svoj novi račun,vzdignete denar iz računa,pogledate stanje svojega računa ter izpišete stanje svojega računa.
+V programu boste morali mogoče spremeniti pot do katere dostopa da bere iz datoteke bancni_racuni.txt ker iz te datoteke zapiše ter bere stanje vašega računa.
+
+KAKO DOSTOPATE V PROGRAM oz. BANKOMAT
+Se vpišete v svoj račun z številko računa ter pin računa, če tega nimate kliknete na gumb naredi račun ter nato naredite račun ki se zapiše v datoteko bancni_racuni.txt
+
+KAKO NAREDIMO NOVI RAČUN
+V bankomatu kliknemo novi račun nato kliknemo "confirm" na to vpišemo tisto kodo katero nam na random izbere (kodo ter pin izpiše nad številkami) ter kliknemo confirm na to vpišemo pin kateri nam naključno izbere ter kliknemo confirm
+ča pa hočemo dodati stanje na njega pa moramo to spremeiti v bancni_racuni.txt
+
+KAKO VZDIGNEMO DENAR IZ BANKOMATA
+ko smo prijavljeni v račun kliknemo dvigni vsoto ter nato vpišemo vsoto katera mora bit deljiva z 10 !!!!! to je zato ker bankomat nedava ven drobiža
+
+DATOTEKA bancni_racuni.txt
+Prilagam vam tudi datoteko bancni_racuni.txt v kateri je že narjeno par bančnih računov.
+
+Druge stvari pa mislim da so samoumevne
+
+če pa kaj ni jasno me pa kontaktirajte na email:
+erikmahmutovic02@gmail.com
